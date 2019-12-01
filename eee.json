@@ -1,5 +1,5 @@
  [
-"book1": {"name": "Harry Potter", "author": "J.K. Rowling", "type": "Fantasy", "total episodes": 7},
- "book2": {"name": "Living", "author": "Hua Yu", "type": "Realistic", "total episodes": 1},
- "book3": {"name": "EEE", "author": ["E1", "E2"], "type": "Fantasy", "total episodes": 3}
+{"name": "Harry Potter", "author": "J.K. Rowling", "type": "Fantasy", "total episodes": 7},
+{"name": "Living", "author": "Hua Yu", "type": "Realistic", "total episodes": 1},
+{"name": "EEE", "author": ["E1", "E2"], "type": "Fantasy", "total episodes": 3}
 ]
