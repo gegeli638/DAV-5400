@@ -1,14 +1,20 @@
 <bookstore>
 <book>
-  <title>Harry Potter</title>
+  <name>Harry Potter</name>
   <author>J K. Rowling</author>
-  <year>2005</year>
-  <price>29.99</price>
+  <isbn>9788700631625</isbn>
+  <publish date>1997</publish date>
 </book>
 <book>
-  <title>Learning XML</title>
-  <author>Erik T. Ray</author>
-  <year>2003</year>
-  <price>39.95</price>
+  <name>Computer Programming for Kids and Other Beginners</name>
+  <author>Warren Sande, Carter Sande</author>
+  <isbn>9783446422278</isbn>
+  <publish date>2009</publish date>
+</book>
+<book>
+  <name>Python for Kids</name>
+  <author>Jason.R.Briggs</author>
+  <isbn>9781457185533</isbn>
+  <publish date>2009</publish date>
 </book>
 </bookstore>
