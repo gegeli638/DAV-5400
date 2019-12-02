@@ -1,9 +1,9 @@
  [
 
-{"name": "Harry Potter", "author": "J.K. Rowling", "isbn": "9788700631625", "publish date": "1997"},
+{"name": "Harry Potter", "author": "J.K. Rowling", "isbn": "9788700631625", "publish_date": "1997"},
 
-{"name": "Computer Programming for Kids and Other Beginners", "author": ["Warren Sande", "Carter Sande"], "isbn": "9783446422278", "publish date": "2009"},
+{"name": "Computer Programming for Kids and Other Beginners", "author": ["Warren Sande", "Carter Sande"], "isbn": "9783446422278", "publish_date": "2009"},
 
-{"name": "Python for Kids", "author": "Jason.R.Briggs", "isbn": "9781457185533", "publish date": "2009"}
+{"name": "Python for Kids", "author": "Jason.R.Briggs", "isbn": "9781457185533", "publish_date": "2009"}
 
 ]
