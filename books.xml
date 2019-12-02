@@ -3,18 +3,18 @@
   <name>Harry Potter</name>
   <author>J K. Rowling</author>
   <isbn>9788700631625</isbn>
-  <publish date>1997</publish date>
+  <publish_date>1997</publish_date>
 </book>
 <book>
   <name>Computer Programming for Kids and Other Beginners</name>
   <author>Warren Sande, Carter Sande</author>
   <isbn>9783446422278</isbn>
-  <publish date>2009</publish date>
+  <publish_date>2009</publish_date>
 </book>
 <book>
   <name>Python for Kids</name>
   <author>Jason.R.Briggs</author>
   <isbn>9781457185533</isbn>
-  <publish date>2009</publish date>
+  <publish_date>2009</publish_date>
 </book>
 </bookstore>
