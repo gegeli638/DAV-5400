@@ -1,26 +1,26 @@
-ID Year,Year,Household Income by Race,Household Income by Race Moe,Geography,ID Geography,Slug Geography
-2017,2017,79201,2788,"Richmond County, NY",05000US36085,richmond-county-ny
-2017,2017,37397,1444,"Bronx County, NY",05000US36005,bronx-county-ny
-2017,2017,85071,3520,"New York County, NY",05000US36061,new-york-county-ny
-2017,2017,64509,1327,"Queens County, NY",05000US36081,queens-county-ny
-2017,2017,56942,1151,"Kings County, NY",05000US36047,kings-county-ny
-2016,2016,55150,1015,"Kings County, NY",05000US36047,kings-county-ny
-2016,2016,77197,4465,"Richmond County, NY",05000US36085,richmond-county-ny
-2016,2016,37525,1266,"Bronx County, NY",05000US36005,bronx-county-ny
-2016,2016,77559,2469,"New York County, NY",05000US36061,new-york-county-ny
-2016,2016,62207,1151,"Queens County, NY",05000US36081,queens-county-ny
-2015,2015,60422,723,"Queens County, NY",05000US36081,queens-county-ny
-2015,2015,51141,566,"Kings County, NY",05000US36047,kings-county-ny
-2015,2015,35176,1392,"Bronx County, NY",05000US36005,bronx-county-ny
-2015,2015,71622,2532,"Richmond County, NY",05000US36085,richmond-county-ny
-2015,2015,75575,2566,"New York County, NY",05000US36061,new-york-county-ny
-2014,2014,47966,1220,"Kings County, NY",05000US36047,kings-county-ny
-2014,2014,76089,2016,"New York County, NY",05000US36061,new-york-county-ny
-2014,2014,33712,1709,"Bronx County, NY",05000US36005,bronx-county-ny
-2014,2014,57241,1195,"Queens County, NY",05000US36081,queens-county-ny
-2014,2014,71121,3055,"Richmond County, NY",05000US36085,richmond-county-ny
-2013,2013,56599,943,"Queens County, NY",05000US36081,queens-county-ny
-2013,2013,69633,3474,"Richmond County, NY",05000US36085,richmond-county-ny
-2013,2013,33009,1597,"Bronx County, NY",05000US36005,bronx-county-ny
-2013,2013,47520,1145,"Kings County, NY",05000US36047,kings-county-ny
-2013,2013,72190,2200,"New York County, NY",05000US36061,new-york-county-ny
+ID Year,Year,Household Income by Race,Geography,ID Geography,Slug Geography
+2017,2017,79201,"Richmond County, NY",05000US36085,richmond-county-ny
+2017,2017,37397,"Bronx County, NY",05000US36005,bronx-county-ny
+2017,2017,85071,"New York County, NY",05000US36061,new-york-county-ny
+2017,2017,64509,"Queens County, NY",05000US36081,queens-county-ny
+2017,2017,56942,"Kings County, NY",05000US36047,kings-county-ny
+2016,2016,55150,"Kings County, NY",05000US36047,kings-county-ny
+2016,2016,77197,"Richmond County, NY",05000US36085,richmond-county-ny
+2016,2016,37525,"Bronx County, NY",05000US36005,bronx-county-ny
+2016,2016,77559,"New York County, NY",05000US36061,new-york-county-ny
+2016,2016,62207,"Queens County, NY",05000US36081,queens-county-ny
+2015,2015,60422,"Queens County, NY",05000US36081,queens-county-ny
+2015,2015,51141,"Kings County, NY",05000US36047,kings-county-ny
+2015,2015,35176,"Bronx County, NY",05000US36005,bronx-county-ny
+2015,2015,71622,"Richmond County, NY",05000US36085,richmond-county-ny
+2015,2015,75575,"New York County, NY",05000US36061,new-york-county-ny
+2014,2014,47966,"Kings County, NY",05000US36047,kings-county-ny
+2014,2014,76089,"New York County, NY",05000US36061,new-york-county-ny
+2014,2014,33712,"Bronx County, NY",05000US36005,bronx-county-ny
+2014,2014,57241,"Queens County, NY",05000US36081,queens-county-ny
+2014,2014,71121,"Richmond County, NY",05000US36085,richmond-county-ny
+2013,2013,56599,"Queens County, NY",05000US36081,queens-county-ny
+2013,2013,69633,"Richmond County, NY",05000US36085,richmond-county-ny
+2013,2013,33009,"Bronx County, NY",05000US36005,bronx-county-ny
+2013,2013,47520,"Kings County, NY",05000US36047,kings-county-ny
+2013,2013,72190,"New York County, NY",05000US36061,new-york-county-ny
